@@ -4,5 +4,6 @@ for operation vectors.
 
 ## Scripts
 
-* https://github.com/LuczynskiDar/CppLabTaks1/blob/master/Operatory/cvector.h
-* [cvector.cpp](https://github.com/LuczynskiDar/CppLabTaks1/blob/master/Operatory/cvector.cpp), contains class constractor and method implementation behind the operators.
+* [cvector.h](https://github.com/LuczynskiDar/CppLabTaks1/blob/master/Operatory/cvector.h) contains class, constructors and attributes declartions, along with functions delarations.
+* [cvector.cpp](https://github.com/LuczynskiDar/CppLabTaks1/blob/master/Operatory/cvector.cpp), contains class constractor and functions implementation behind the operators.
+*
