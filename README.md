@@ -1,2 +1,3 @@
 # CppLabTaks1
-Operatory dla wektorow
+C++ exercises, “+, -, *, |”operator overloading and use
+for operation vectors.
